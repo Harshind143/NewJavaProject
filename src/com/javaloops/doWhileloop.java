@@ -1,3 +1,5 @@
+package com.javaloops;
+
 public class doWhileloop {
 
     public static void main(String[] args) {

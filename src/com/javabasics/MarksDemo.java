@@ -1,3 +1,5 @@
+package com.javabasics;
+
 public class MarksDemo {
 
     public static void main(String[] args) {
